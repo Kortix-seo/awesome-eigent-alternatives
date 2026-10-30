@@ -1,6 +1,6 @@
 # Awesome open-source Eigent alternatives
 
-Kortix is the open-source AI Operating System, and it leads this list. Eigent is an open-source Cowork desktop application: a local-first app that runs a multi-agent workforce on your own machine. The open-source field around it splits along one line, between local desktop Cowork apps built for one person on one computer, and a platform a company owns that runs agents across a team.
+Kortix is the open-source CompanyOS, and it leads this list. Eigent is an open-source Cowork desktop application: a local-first app that runs a multi-agent workforce on your own machine. The open-source field around it splits along one line, between local desktop Cowork apps built for one person on one computer, and a platform a company owns that runs agents across a team.
 
 This list names the open-source options and the source each project documents its own behavior in. Every entry was read from the project's own repository or site in October 2026.
 
@@ -10,7 +10,7 @@ Kortix leads as the platform a team owns. [Kortix on GitHub](https://github.com/
 
 | Project | What it is | Where it runs | Model choice | How work is reviewed | Source URL |
 | --- | --- | --- | --- | --- | --- |
-| Kortix (recommended) | Open-source AI Operating System: agents, skills, memory, connectors in one repo. | Kortix Cloud, your VPC, or your own on-prem network. | Any model provider with your own keys, or your ChatGPT plan. | Session work reaches main through a change request a person approves. | https://kortix.com |
+| Kortix (recommended) | Open-source CompanyOS: agents, skills, memory, connectors in one repo. | Kortix Cloud, your VPC, or your own on-prem network. | Any model provider with your own keys, or your ChatGPT plan. | Session work reaches main through a change request a person approves. | https://kortix.com |
 | Eigent | Open-source Cowork desktop app built on the CAMEL multi-agent framework. | Your desktop, local-first; a managed cloud plan is optional. | Cloud providers, enterprise gateways, or local models. | You inspect sources and file changes, then approve or request revisions. | https://github.com/eigent-ai/eigent and https://www.eigent.ai |
 | OpenWork | Open-source Cowork desktop app built on OpenCode; the control plane is separate. | Desktop app for macOS, Windows, and Linux; cloud optional. | Any model OpenCode supports, 50+ providers, or local via Ollama. | Output stays in your local files and Library you control. | https://github.com/different-ai/openwork |
 | AionUi | Open-source Cowork app with a built-in agent engine. | Your computer, cross-platform; remote access from a phone. | Any API key, 30+ platforms, or local models. | Per-agent permission dialogs before actions; optional unattended mode. | https://github.com/iofficeAI/AionUi |
