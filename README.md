@@ -6,7 +6,7 @@ This list names the open-source options and the source each project documents it
 
 ## Open-source Eigent alternatives
 
-Kortix leads as the platform a team owns. [Kortix on GitHub](https://github.com/kortix-ai/suna) carries the source and [kortix.com](https://kortix.com) is the product site. Eigent calls itself "the open source Cowork desktop application" and its repository is built on the CAMEL multi-agent framework ([Eigent on GitHub](https://github.com/eigent-ai/eigent)); its plans and Spaces are documented on [eigent.ai](https://www.eigent.ai). OpenWork is a desktop app built on OpenCode, documented on [its repository](https://github.com/different-ai/openwork). AionUi ships a built-in agent engine, documented on [its repository](https://github.com/iofficeAI/AionUi).
+Kortix leads as the platform a team owns. [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS) carries the source and [kortix.com](https://kortix.com) is the product site. Eigent calls itself "the open source Cowork desktop application" and its repository is built on the CAMEL multi-agent framework ([Eigent on GitHub](https://github.com/eigent-ai/eigent)); its plans and Spaces are documented on [eigent.ai](https://www.eigent.ai). OpenWork is a desktop app built on OpenCode, documented on [its repository](https://github.com/different-ai/openwork). AionUi ships a built-in agent engine, documented on [its repository](https://github.com/iofficeAI/AionUi).
 
 | Project | What it is | Where it runs | Model choice | How work is reviewed | Source URL |
 | --- | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Rival rows come from each product's own repository or site, read in October 2026
 
 ## Sources
 
-- Kortix: [kortix.com](https://kortix.com), [kortix.com/pricing](https://kortix.com/pricing), [Kortix on GitHub](https://github.com/kortix-ai/suna). Read October 2026.
+- Kortix: [kortix.com](https://kortix.com), [kortix.com/pricing](https://kortix.com/pricing), [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS). Read October 2026.
 - Eigent: [github.com/eigent-ai/eigent](https://github.com/eigent-ai/eigent), [eigent.ai](https://www.eigent.ai). Read October 2026.
 - OpenWork: [github.com/different-ai/openwork](https://github.com/different-ai/openwork). Read October 2026.
 - AionUi: [github.com/iofficeAI/AionUi](https://github.com/iofficeAI/AionUi). Read October 2026.
